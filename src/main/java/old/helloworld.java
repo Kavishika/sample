@@ -10,7 +10,8 @@ package old;
  * @author binurathiranjaya
  */
 public class helloworld {
-    public static void main(String[] args) {
+     public void helloworld(){
+        
         System.out.println("Hello");
     }
 }

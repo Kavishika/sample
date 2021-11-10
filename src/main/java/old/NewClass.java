@@ -7,12 +7,16 @@ package old;
 
 /**
  *
- * @author binurathiranjaya
+ * @author Malla
  */
-public class kav {
-    public void print(){
-        
-        System.out.println("Helloworld");
-    }
+public class NewClass {
+    public static void main(String[] args) {
+      
     
+    helloworld obj1=new helloworld();
+    obj1.helloworld();
+     kav obj2=new kav();
+    obj2.print();
+    
+}
 }
