@@ -10,5 +10,8 @@ package old;
  * @author binurathiranjaya
  */
 public class helloworld {
-    
+     public void helloworld(){
+        
+        System.out.println("Hello");
+    }
 }
